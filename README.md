@@ -1,2 +1,2 @@
 # Coursera_Capstone
-For studying purposes
+For study purposes
